@@ -19,7 +19,7 @@ pip install nltk python-docx PyPDF2
 1. Clona este repositorio:
 
    ```sh
-   git clone https://github.com/tu-usuario/tokener.git
+   git clone [https://github.com/tu-usuario/tokener.git](https://github.com/nicolasscolnik/texts_tokener)
    cd tokener
    ```
 
